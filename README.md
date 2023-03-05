@@ -7,7 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/paul christian buhay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="paul christian buhay" height="30" width="40" /></a>
+<a href="https://twitter.com/buhaypaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="buhaypaul" height="30" width="40" /></a>
+<a href="https://fb.com/paulchristianbuhay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="paulchristianbuhay" height="30" width="40" /></a>
+<a href="https://instagram.com/paul_buhay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paul_buhay" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,4 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pcbuhay&show_icons=true&locale=en" alt="pcbuhay" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pcbuhay&" alt="pcbuhay" /></p>
+
 
